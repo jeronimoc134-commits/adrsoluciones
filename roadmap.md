@@ -1,5 +1,5 @@
 # ADR Soluciones
-- [ ] Crear sitio visual con imágenes y videos aportados.
-- [ ] Integrar servicios, proyectos internacionales y WhatsApp.
-- [ ] Guardar solicitudes del formulario y comprobar un envío.
-- [ ] Verificar presentación e interacciones.
+- [x] Crear sitio visual con imágenes y videos aportados.
+- [x] Integrar servicios, proyectos internacionales y WhatsApp.
+- [x] Guardar solicitudes del formulario y comprobar un envío.
+- [x] Verificar presentación e interacciones.
